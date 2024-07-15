@@ -1,6 +1,5 @@
 body{
-    font-family: "Playwrite CU", cursive;
-    font-size: 11px;
+    font-family: "Playwrite DK Uloopet", cursive;
     background-color: lightblue;
     margin: 20px auto;
     text-align: center;
@@ -8,13 +7,13 @@ body{
 }
 
 h1{
-    color: rgba(17, 46, 134, 0.8);
+    color: rgb(14, 55, 181);
 }
 button{
     padding: 8px 12px;
     margin: 5px;
     cursor: pointer;
-    background-color: rgba(17, 46, 134, 0.8);
+    background-color: rgba(14, 55, 181);
     color: white;
     border: none;
     border-radius: 5px;
@@ -22,7 +21,7 @@ button{
 }
 
 button:hover{
-    background-color: rgba(62, 91, 177, 0.8);
+    background-color: rgba(71, 98, 180, 0.8);
 }
 
 form{
